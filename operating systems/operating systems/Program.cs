@@ -11,6 +11,7 @@ namespace operating_systems
         static void Main(string[] args)
         {
             //initialize the select query with command text
+            //saqlain
             SelectQuery query = new SelectQuery(@"Select * from Win32_OperatingSystem");
 
             //initialize the searcher with the query it is supposed to execute

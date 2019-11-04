@@ -33,5 +33,14 @@ namespace operating_systems
             }
 
         }
+
+        static void Run()
+        {
+            Console.WriteLine("1.com");
+
+            Console.WriteLine("2.com");
+
+            Console.WriteLine("3.com");
+        }
     }
 }
